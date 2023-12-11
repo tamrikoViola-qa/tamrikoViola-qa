@@ -1,6 +1,5 @@
 
-![8dac6a691a44f4ff5e4b8720b1e2ca68bf8b2bb3_2_690x436](https://github.com/tamrikoViola-qa/tamrikoViola-qa/assets/149593655/65c2f6a6-e499-4a93-8d27-143affda58ab)
-
+![R](https://github.com/tamrikoViola-qa/tamrikoViola-qa/assets/149593655/572d345c-6f64-43ce-b51d-0a4079c23503)
 - 👋 Hi, my name is Viola Gurckaija!
 - 👀 I’m interested in  expanding my technical skills and knowledge in software testing...
 - 🌱 I’m currently finished my studies in quality assurance and got a practice ...
